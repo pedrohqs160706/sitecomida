@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+
+    body{
+        background-color: black;
+    }
+    .sifrao{
+        position: absolute; right: 750px; top: 340px;
+        width: 10%; height: 10%;
+    }
+    
+    .text1{
+        position: absolute; right: 1100px; top: 300px;
+
+    }
+
+    .marca{
+        position: absolute; right: 1659px; top: 0px;
+    }
+  
+    .numero{
+        position: absolute; right: 0px; top: 10px;
+    }
+
+    .botao{
+        position: absolute; right: 1100px; top: 500px;
+    }
+    
+    .comida{
+        position: absolute; right: 0px; top: 628px;
+    }
+
+    .texto1{
+        position: absolute; right: 740px; top: 380px;
+        color: white;  
+        font-family: 'Poppins', sans-serif;    
+    }
+    
+    .texto2{
+        position: absolute; right: 710px; top: 400px;
+        color: white;  
+        font-family: 'Poppins', sans-serif; 
+    }
+
+    .texto3{
+        position: absolute; right: 300px; top: 420px;
+        color: white;  
+        font-family: 'Poppins', sans-serif; 
+    }
+
+    .texto4{
+        position: absolute; right: 320px; top: 440px;
+        color: white;  
+        font-family: 'Poppins', sans-serif; 
+    }
+
+    .verificado{
+        position: absolute; right: 320px; top: 440px;
+        color: white;  
+        font-family: 'Poppins', sans-serif; 
+    }
